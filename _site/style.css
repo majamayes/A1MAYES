@@ -1,0 +1,18 @@
+body {
+    margin: 6vw 20vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(55, 189, 189);
+    color: rgb(10, 71, 85);
+    font-size: 23px;
+} 
+main {
+    margin: 5vw;
+    text-align: center;
+    font-size: 18px;
+}
+nav ul {
+    display: flex;
+    list-style: none; 
+    gap: 40px;
+    float: right;
+}
