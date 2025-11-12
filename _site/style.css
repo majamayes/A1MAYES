@@ -16,3 +16,7 @@ nav ul {
     gap: 40px;
     float: right;
 }
+nav a {
+    color: midnightblue;
+    text-decoration: none;
+} 
